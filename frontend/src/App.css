@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+}
+
+.dropdown-menu {
+  max-height: 300px;
+}
+
+canvas {
+  width: 300px;
+  margin-top: 60px;
+}
